@@ -1,7 +1,7 @@
 # 🚕 NYC Taxi Trip Duration Analysis
 
 ## 📌 Project Overview
-This project performs an end-to-end exploratory data analysis (EDA) on the NYC Taxi Trip Duration dataset (`train.csv`) to understand time-based demand patterns and trip behavior in urban transportation.
+This project performs an end-to-end exploratory data analysis (EDA) on the NYC Taxi Trip Duration dataset (`NYC.csv`) to understand time-based demand patterns and trip behavior in urban transportation.
 
 The dataset contains **1.45M+ taxi trips** with detailed information about pickup time, vendor, and trip duration.
 
