@@ -1,6 +1,6 @@
 ## Methodology
 
-- Loaded the `train.csv` dataset using pandas (**1,458,644 rows × 11 columns**)
+- Loaded the `NYC.csv` dataset using pandas (**1,458,644 rows × 11 columns**)
 - Inspected dataset structure and confirmed there were **no missing values**
 - Converted `pickup_datetime` to datetime format for time-based analysis
 - Extracted key temporal features including **hour of day, weekday, and month**
